@@ -1,0 +1,20 @@
+sort1 uses: Bubble Sort
+
+How do you know?:   Bubble sort has the condition where if no pair of values are swaped the program terminates.
+                    Hence with the sorted list it will have a shorter run time of Ω(n) compaired to
+                    mergesort and selection sort which are Ωn(log n) & Ω(n^2) respectively.
+
+
+
+sort2 uses: Merge Sort
+
+How do you know?:   Merge sort will have the same run time no matter if the list is sorted or not as this sorting
+                    algorithm  is big O and Ω of n(log n).
+                    Also this sorting algorithm is also faster than Selection and Bubble sort for random lists
+                    as these sorting methods are O(n^2).
+
+
+sort3 uses: Selection Sort
+
+How do you know?: Selectin Sort will be a slow sorting method and have similar time if the list is sorted or random
+                  as it has time complexity of 0(n^2) and Ω(n^2).
