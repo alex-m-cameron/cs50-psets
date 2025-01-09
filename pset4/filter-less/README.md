@@ -3,7 +3,7 @@ https://cs50.harvard.edu/x/2025/psets/4/filter/less/
 
 - Program to apply a filter to an input image.bmp and outputs an out.bmp image.
 - My code is the helpers.c file.
-- CS50 provides all other files.
+- CS50 provides all the other files for this task.
 
 
 -  Usage: ./filter -g images/tower.bmp out.bmp
